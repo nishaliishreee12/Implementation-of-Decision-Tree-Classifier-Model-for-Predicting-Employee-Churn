@@ -29,8 +29,8 @@ To write a Python program to implement the Decision Tree Classifier model for pr
 # Program to implement the Decision Tree Classifier
 # Model for Predicting Employee Churn.
 #
-# Developed by:
-# RegisterNumber:
+# Developed by: NISHALI SHREE R
+# RegisterNumber: 212225080036
 
 import pandas as pd
 
